@@ -27,10 +27,10 @@ Before you get started, ensure you have the following installed on your system:
 ## How to Get Started
 
 ### Clone the Repository
-\`\`\`bash
-git clone <repository_url>
+```bash
+git clone https://github.com/dipankarchettri/web-dev.git
 cd web-dev
-\`\`\`
+```
 
 ### Setting Up the Frontend
 1. Navigate to the \`frontend\` folder:
