@@ -33,21 +33,21 @@ cd web-dev
 ```
 
 ### Setting Up the Frontend
-1. Navigate to the \`frontend\` folder:
-   \`\`\`bash
+1. Navigate to the `frontend` folder:
+   ```bash
    cd frontend
-   \`\`\`
+   ```
 2. Write your HTML, CSS, and JavaScript files here.
 
 ### Setting Up the Backend
-1. Navigate to the \`backend\` folder:
-   \`\`\`bash
+1. Navigate to the `backend` folder:
+   ```bash
    cd backend
-   \`\`\`
-2. Use Python's \`http.server\` to start a simple HTTP server:
-   \`\`\`bash
+   ```
+2. Use Python's `http.server` to start a simple HTTP server:
+   ```bash
    python -m http.server
-   \`\`\`
+   ```
 
 ---
 
@@ -55,18 +55,18 @@ cd web-dev
 
 1. Fork the repository and clone your fork locally.
 2. Create a new branch for your feature:
-   \`\`\`bash
+   ```bash
    git checkout -b feature-name
-   \`\`\`
+   ```
 3. Work on your changes, then stage and commit them:
-   \`\`\`bash
+   ```bash
    git add .
    git commit -m "Your detailed commit message"
-   \`\`\`
+   ```
 4. Push your changes and create a pull request:
-   \`\`\`bash
+   ```bash
    git push origin feature-name
-   \`\`\`
+   ```
 
 ---
 
